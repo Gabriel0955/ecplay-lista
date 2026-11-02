@@ -5,14 +5,8 @@ https://redirector.dps.live/hls-video/c54ac2799874375c81c1672abb700870537c5223/e
 http://45.224.97.181:9999/TC/index.m3u8
 #EXTINF:-1 tvg-id="Teleamazonas.ec" tvg-name="Teleamazonas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Teleamazonas_Logo.png/960px-Teleamazonas_Logo.png" tvg-country="EC" tvg-language="spa" group-title="General" nexus-score="100",Teleamazonas (1080p)
 http://157.100.248.242:8080/TeleamazonasHD/index.m3u8
-#EXTINF:-1 tvg-id="RTS.ec" tvg-name="RTS" tvg-logo="https://i.imgur.com/PML8cJA.png" tvg-country="EC" tvg-language="spa" group-title="General" nexus-score="100",RTS (1080p)
-http://45.224.97.181:9999/RTS/index.m3u8
 #EXTINF:-1 tvg-id="Gamavision.ec" tvg-name="Gamavision" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/Gamavisi%C3%B3n2018new.png" tvg-country="EC" tvg-language="spa" group-title="General" nexus-score="100",Gamavision (1080p)
 http://181.78.211.244:8000/play/a0a2/index.m3u8
-#EXTINF:-1 tvg-id="EcuadorTV.ec" tvg-name="Ecuador TV" tvg-logo="https://i.imgur.com/hj6EYwe.png" tvg-country="EC" tvg-language="spa" group-title="General" nexus-score="100",Ecuador TV (1080p)
-http://45.224.97.181:9999/EcuadorTV/index.m3u8
-#EXTINF:-1 tvg-id="TVC.ec" tvg-name="TVC" tvg-logo="https://i.imgur.com/zhdIwlm.png" tvg-country="EC" tvg-language="spa" group-title="General" nexus-score="100",TVC (1080p)
-http://45.224.97.181:9999/TVC/index.m3u8
 #EXTINF:-1 tvg-id="OromarTV.ec" tvg-name="Oromar TV" tvg-logo="https://oromartv.com/images/OTV400.png" tvg-country="EC" tvg-language="spa" group-title="General" nexus-score="100",Oromar TV (1080p)
 http://45.224.97.181:9999/Oromar/index.m3u8
 #EXTINF:-1 tvg-id="Telerama.ec" tvg-name="Telerama" tvg-logo="https://i.imgur.com/whIRrjo.png" tvg-country="EC" tvg-language="spa" group-title="General" nexus-score="99",Telerama (240p)
